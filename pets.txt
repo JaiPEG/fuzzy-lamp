@@ -1,3 +1,5 @@
 tardigrade
 cat
 dog
+buffalo
+rabbit
