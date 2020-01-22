@@ -7,3 +7,6 @@ gerbil
 hamster
 frog
 snake
+worm
+snail
+crawfish
