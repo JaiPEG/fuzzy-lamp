@@ -5,6 +5,8 @@ buffalo
 rabbit
 gerbil
 hamster
+frog
+snake
 worm
 snail
 crawfish
